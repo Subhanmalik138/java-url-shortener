@@ -1,0 +1,10 @@
+# compiled output
+out/
+*.class
+
+# editor / os noise
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
